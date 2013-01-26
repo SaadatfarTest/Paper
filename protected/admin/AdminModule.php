@@ -1,5 +1,5 @@
 <?php
-
+//And this!
 class AdminModule extends CWebModule
 {
 	public function init()
