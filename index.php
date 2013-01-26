@@ -1,8 +1,6 @@
 <?php
 //error_reporting(E_ALL);
 //Some Changes
-//ooooo
-
 
 //YEP! I added that!
 
